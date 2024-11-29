@@ -14,7 +14,7 @@ export const themeConfig = {
     lang: "zh-CN",
     // 作者
     author: {
-      name: "Admin",
+      name: "czH!",
       cover: "/images/logo/logo.webp",
       email: "114514@gmail.com",
       link: "https://czhblog.us.kg",
