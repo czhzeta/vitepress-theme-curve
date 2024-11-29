@@ -3,13 +3,13 @@ export const themeConfig = {
   // 站点信息
   siteMeta: {
     // 站点标题
-    title: "Curve",
+    title: "czh的blog",
     // 站点描述
     description: "Hello World",
     // 站点logo
     logo: "/images/logo/logo.webp",
     // 站点地址
-    site: "https://blog.imsyy.top",
+    site: "https://czhblog.us.kg",
     // 语言
     lang: "zh-CN",
     // 作者
@@ -17,7 +17,7 @@ export const themeConfig = {
       name: "Admin",
       cover: "/images/logo/logo.webp",
       email: "114514@gmail.com",
-      link: "https://www.imsyy.top",
+      link: "https://czhblog.us.kg",
     },
   },
   // 备案信息
@@ -40,7 +40,7 @@ export const themeConfig = {
           rel: "alternate",
           type: "application/rss+xml",
           title: "RSS",
-          href: "https://blog.imsyy.top/rss.xml",
+          href: "https://czhblog.us.kg",
         },
       ],
       // 预载 CDN
@@ -155,7 +155,7 @@ export const themeConfig = {
         {
           icon: "/images/logo/logo.webp",
           name: "博客镜像站",
-          url: "https://blog-backup.imsyy.top/",
+          url: "https://czhblog.us.kg",
         },
       ],
     },
@@ -181,38 +181,6 @@ export const themeConfig = {
     },
     {
       name: "项目",
-      list: [
-        {
-          icon: "/images/logo/logo.webp",
-          name: "Curve",
-          url: "https://github.com/imsyy/vitepress-theme-curve",
-        },
-        {
-          icon: "https://pic.efefee.cn/uploads/2024/04/07/66124f5fc63c8.png",
-          name: "SPlayer",
-          url: "https://github.com/imsyy/SPlayer",
-        },
-        {
-          icon: "https://pic.efefee.cn/uploads/2024/04/08/6613465358077.png",
-          name: "Snavigation",
-          url: "https://github.com/imsyy/SPlayer",
-        },
-        {
-          icon: "/images/logo/logo.webp",
-          name: "Home",
-          url: "https://github.com/imsyy/home",
-        },
-        {
-          icon: "https://pic.efefee.cn/uploads/2024/04/08/661346d418ad7.png",
-          name: "DailyHotApi",
-          url: "https://github.com/imsyy/DailyHotApi",
-        },
-        {
-          icon: "https://pic.efefee.cn/uploads/2024/04/08/66134722586fa.png",
-          name: "site-status",
-          url: "https://github.com/imsyy/site-status",
-        },
-      ],
     },
   ],
   // 封面配置
@@ -276,10 +244,10 @@ export const themeConfig = {
       {
         text: "项目",
         items: [
-          { text: "Home", link: "https://github.com/imsyy/home/", newTab: true },
-          { text: "SPlayer", link: "https://github.com/imsyy/SPlayer/", newTab: true },
-          { text: "DailyHotApi", link: "https://github.com/imsyy/DailyHotApi/", newTab: true },
-          { text: "Snavigation", link: "https://github.com/imsyy/Snavigation/", newTab: true },
+          { text: "网站导航", link: "https://czhweb.us.kg/", newTab: true },
+          { text: "无", link: "", newTab: true },
+          { text: "无", link: "", newTab: true },
+          { text: "无", link: "", newTab: true },
         ],
       },
       {
@@ -302,14 +270,8 @@ export const themeConfig = {
       {
         text: "服务",
         items: [
-          { text: "站点状态", link: "https://status.imsyy.top/", newTab: true },
-          { text: "一个导航", link: "https://nav.imsyy.top/", newTab: true },
-          { text: "站点订阅", link: "https://blog.imsyy.top/rss.xml", newTab: true },
-          {
-            text: "反馈投诉",
-            link: "https://eqnxweimkr5.feishu.cn/share/base/form/shrcnCXCPmxCKKJYI3RKUfefJre",
-            newTab: true,
-          },
+          { text: "站点状态", link: "https://czhzeta.us.kg/", newTab: true },
+          { text: "一个导航", link: "https://czhweb.us.kg/", newTab: true },
         ],
       },
     ],
