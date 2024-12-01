@@ -4,9 +4,9 @@
     <div class="about-content" style="grid-template-columns: 3fr 2fr">
       <!-- 介绍 -->
       <div class="about-item hello">
-        <span class="text1">你好，很高兴认识你👋</span>
-        <span class="text2 title2">我是 無名</span>
-        <span class="text3">是一名 前端开发工程师、独立开发者、博主</span>
+        <span class="text1">Hello!，很高兴认识你👋</span>
+        <span class="text2 title2">我是 czH</span>
+        <span class="text3">是一名 初中生</span>
       </div>
       <!-- 追求 -->
       <div class="about-item pursuit">
@@ -44,8 +44,8 @@
           <i>無限進步</i>
         </span>
         <div class="list">
-          <span class="list-item" style="--color: #357ef5">ZZRVTC · 计算机应用技术</span>
-          <span class="list-item" style="--color: #eb372a">FE · 前端开发工程师</span>
+          <span class="list-item" style="--color: #357ef5">c++</span>
+          <span class="list-item" style="--color: #eb372a">南海实验中学学生</span>
         </div>
         <img
           class="career-img"
@@ -144,7 +144,7 @@
           class="about-item map image"
           style="background-image: url(https://pic.efefee.cn/uploads/2024/04/15/661cbccc56af5.webp)"
         >
-          <span class="position">我现在住在 <strong>中国，河南省</strong></span>
+          <span class="position">我现在住在 <strong>中国，广东省</strong></span>
         </div>
         <div class="about-item info">
           <div class="info-item">
@@ -153,7 +153,7 @@
           </div>
           <div class="info-item">
             <span class="info-name">现在职业</span>
-            <span class="info-num" style="--color: #dfac46">前端开发工程师</span>
+            <span class="info-num" style="--color: #dfac46">初中生</span>
           </div>
         </div>
       </div>
@@ -184,72 +184,20 @@ const { theme } = useData();
 
 // 技能数据
 const skillsData = [
+  
   {
-    name: "JavaScript",
-    color: "#f1e05abd",
-    icon: "javascript",
-    link: "https://developer.mozilla.org/zh-CN/docs/Web/JavaScript",
-  },
-  {
-    name: "HTML5",
-    color: "#e34f26",
-    icon: "html5",
-    link: "https://developer.mozilla.org/zh-CN/docs/Web/HTML",
-  },
-  {
-    name: "CSS3",
-    color: "#563d7c",
-    icon: "css3",
-    link: "https://developer.mozilla.org/zh-CN/docs/Web/CSS",
-  },
-  {
-    name: "Vue",
-    color: "#41b883",
-    icon: "vue",
-    link: "https://cn.vuejs.org/",
-  },
-  {
-    name: "React",
+    name: "Web",
     color: "#149ECA",
     icon: "react",
-    link: "https://zh-hans.reactjs.org/",
+    link: "https://czhweb.us.kg",
   },
   {
-    name: "Node.js",
-    color: "#026E00",
-    icon: "nodejs",
-    link: "https://nodejs.org/",
-  },
-  {
-    name: "Python",
-    color: "#3776AB",
-    icon: "python",
-    link: "https://www.python.org/",
-  },
-  {
-    name: "Docker",
-    color: "#2496f2",
-    icon: "docker",
-    link: "https://www.docker.com/",
-  },
-  {
-    name: "Git",
-    color: "#F05032",
+    name: "C++",
+    color: "#149ECA",
     icon: "git",
-    link: "https://git-scm.com/",
+    link: "https://c++",
   },
-  {
-    name: "Photoshop",
-    color: "#31A8FF",
-    icon: "photoshop",
-    link: "https://www.adobe.com/cn/lead/creativecloud/business.html",
-  },
-  {
-    name: "ChatGPT",
-    color: "#4AA181",
-    icon: "chatgpt",
-    link: "https://chat.openai.com/",
-  },
+  
 ];
 
 // 站点统计数据
