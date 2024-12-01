@@ -1,0 +1,62 @@
+---
+title: 本站の更新日志
+tags: [无聊至极]
+categories: [关于本站]
+date: 2024-12-01
+description: 这是我的第一篇博客，勿喷
+articleGPT: 这是一篇更新日志，无聊至极，垃圾
+references:
+  - title: vitepress-theme-curve
+    url: https://github.com/czhzeta/vitepress-theme-curve
+---
+
+::: tip
+这只是一个小站的更新日志
+:::
+
+
+::: tabs
+
+== 时间线
+::: timeline 2024-11-29
+
+在imsyy的帮助下（其实是fork），一个默默无闻的小站搭建起来了
+
+:::
+
+::: timeline 2024-12-01
+
+修修补补，基本上小站已经有模有样了！！！
+
+:::
+
+::: timeline 202X-XX-XX
+
+还在更新中:）
+
+:::
+== 目标
+
+::: radio checked
+粉丝 1
+:::
+
+::: radio
+粉丝10
+:::
+
+::: radio
+粉丝100
+:::
+
+::: radio
+粉丝1000
+:::
+
+```
+
+:::
+
+::: info
+再见!
+:::
