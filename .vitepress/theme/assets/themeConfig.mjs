@@ -21,9 +21,9 @@ export const themeConfig = {
     },
   },
   // 备案信息
-  icp: "萌ICP备114514号",
+  icp: "萌ICP备我可没备案",
   // 建站日期
-  since: "2020-07-28",
+  since: "2024-11-29",
   // 每页文章数据
   postSize: 8,
   // inject
@@ -207,27 +207,27 @@ export const themeConfig = {
     social: [
       {
         icon: "email",
-        link: "mailto:one@imsyy.top",
+        link: "chenczhcn@outlook.com",
       },
       {
         icon: "github",
-        link: "https://www.github.com/imsyy/",
+        link: "https://www.github.com/czhzeta/",
       },
       {
         icon: "telegram",
-        link: "https://t.me/bottom_user",
+        link: "https://t.me/没有",
       },
       {
         icon: "bilibili",
-        link: "https://space.bilibili.com/98544142",
+        link: "https://space.bilibili.com/没有",
       },
       {
         icon: "qq",
-        link: "https://res.abeim.cn/api/qq/?qq=1539250352",
+        link: "https://res.abeim.cn/api/qq/?qq=3361644228",
       },
       {
         icon: "twitter-x",
-        link: "https://twitter.com/iimmsyy",
+        link: "https://twitter.com/没有",
       },
     ],
     // sitemap
