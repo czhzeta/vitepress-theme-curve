@@ -86,7 +86,7 @@
         class="about-item like image"
         style="
           --color: #0c0e20;
-          background-image: url(https://pic.efefee.cn/uploads/2024/02/27/65dd812567723.webp);
+          background-image: url(https://s21.ax1x.com/2024/12/02/pAIdH4H.webp);
         "
       >
         <div class="image-content">
