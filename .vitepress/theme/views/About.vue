@@ -49,7 +49,7 @@
         </div>
         <img
           class="career-img"
-          src="https://s21.ax1x.com/2024/12/02/pAId7Ue.webp"
+          src="https://file.xdf.cn/uploads/170320/601_170320163507xPyB4uHy3r3YmNYJ.jpg"
           alt="career"
         />
       </div>
@@ -64,12 +64,12 @@
           在
           <a href="https://www.16personalities.com/ch/" target="_blank">16personalities</a>
           了解更多关于
-          <a href="https://www.16personalities.com/ch/istj-%E4%BA%BA%E6%A0%BC" target="_blank">
+          <a href="https://www.16personalities.com/ch/ESFP-%E4%BA%BA%E6%A0%BC" target="_blank">
             物流师
           </a>
         </span>
         <img
-          src="https://s21.ax1x.com/2024/12/02/pAIdthj.png"
+          src="https://s21.ax1x.com/2024/12/02/pAIdvKP.png"
           alt="male"
           class="male"
         />
