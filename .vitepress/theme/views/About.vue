@@ -58,8 +58,8 @@
       <!-- 性格 -->
       <div class="about-item character" style="--color: #4298b4">
         <span class="tip">性格</span>
-        <span class="title2">物流师</span>
-        <span class="title2" style="color: var(--color)">ISTJ-A / ISTJ-T</span>
+        <span class="title2">表演者</span>
+        <span class="title2" style="color: var(--color)">ESFP-T</span>
         <span class="more">
           在
           <a href="https://www.16personalities.com/ch/" target="_blank">16personalities</a>
@@ -69,7 +69,7 @@
           </a>
         </span>
         <img
-          src="https://pic.efefee.cn/uploads/2024/02/22/65d6bc7ae72ae.png"
+          src="https://s21.ax1x.com/2024/12/02/pAIdthj.png"
           alt="male"
           class="male"
         />
@@ -142,7 +142,7 @@
       <div class="about-item child">
         <div
           class="about-item map image"
-          style="background-image: url(https://pic.efefee.cn/uploads/2024/04/15/661cbccc56af5.webp)"
+          style="background-image: url(https://s21.ax1x.com/2024/12/02/pAIdwj0.png)"
         >
           <span class="position">我现在住在 <strong>中国，广东省</strong></span>
         </div>
