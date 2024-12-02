@@ -49,7 +49,7 @@
         </div>
         <img
           class="career-img"
-          src="https://pic.efefee.cn/uploads/2024/02/22/65d71db18bcf9.png"
+          src="https://s21.ax1x.com/2024/12/02/pAId7Ue.webp"
           alt="career"
         />
       </div>
@@ -101,12 +101,12 @@
         class="about-item like image"
         style="
           --color: #7b3c25;
-          background-image: url(https://pic.efefee.cn/uploads/2024/02/27/65dd836099d16.webp);
+          background-image: url(https://s21.ax1x.com/2024/12/02/pAIdqCd.webp);
         "
       >
         <div class="image-content">
           <span class="tip">音乐偏好</span>
-          <span class="title2">欧美、华语流行、纯音乐、ACG</span>
+          <span class="title2">欧美,纯音乐、ACG</span>
           <div class="image-desc">
             <span class="left">一起欣赏更多音乐</span>
           </div>
