@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>czh的blog</title>
+        <link>https://czhblog.us.kg</link>
+        <description>Hello World</description>
+        <lastBuildDate>Tue, 17 Dec 2024 05:40:31 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>czH!</generator>
+        <language>zh</language>
+        <copyright>Copyright © 2020-present czH!</copyright>
+        <item>
+            <title><![CDATA[本站の更新日志]]></title>
+            <link>https://czhblog.us.kg/posts/2024/1201</link>
+            <guid>https://czhblog.us.kg/posts/2024/1201</guid>
+            <pubDate>Sun, 01 Dec 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[无聊上课时做的，记录一下]]></description>
+            <author>114514@gmail.com (czH!)</author>
+        </item>
+        <item>
+            <title><![CDATA[杀怪物题解]]></title>
+            <link>https://czhblog.us.kg/posts/2024/1010</link>
+            <guid>https://czhblog.us.kg/posts/2024/1010</guid>
+            <pubDate>Fri, 29 Nov 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[这是我的第一篇博客，勿喷]]></description>
+            <author>114514@gmail.com (czH!)</author>
+        </item>
+    </channel>
+</rss>
